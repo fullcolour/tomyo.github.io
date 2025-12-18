@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>财富密码</title>
+    <link>https://ximiaokeji.com</link>
+    <description>全球财经资讯</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 18 Dec 2025 09:59:00 +0900</lastBuildDate>
+
+    <item>
+      <title>全球财经早报 2025-12-17</title>
+      <link>https://ximiaokeji.com/post/quan-qiu-cai-jing-zao-bao-20251217.html</link>
+      <description>精选全球财经新闻，涵盖市场、政策、科技与公司动态。</description>
+      <pubDate>Wed, 17 Dec 2025 09:00:00 +0900</pubDate>
+      <guid>https://ximiaokeji.com/post/quan-qiu-cai-jing-zao-bao-20251217.html</guid>
+    </item>
+
+    <item>
+      <title>全球财经早报 2025-12-18</title>
+      <link>https://ximiaokeji.com/post/quan-qiu-cai-jing-zao-bao-20251218.html</link>
+      <description>精选全球 20 条热门财经新闻，苹果风简报。</description>
+      <pubDate>Thu, 18 Dec 2025 09:00:00 +0900</pubDate>
+      <guid>https://ximiaokeji.com/post/quan-qiu-cai-jing-zao-bao-20251218.html</guid>
+    </item>
+
+  </channel>
+</rss>
